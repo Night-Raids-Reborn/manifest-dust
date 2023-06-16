@@ -15,6 +15,11 @@
            sync-c="true"
            sync-tags="false"
            sync-j="8" />
+  
+  <remote name="pixel"
+          fetch="https://github.com/PixelExperience"
+          revision="thirteen"
+          review="gerrit.pixelexperience.org" />
 
   <default remote="clo-la"/>
 
